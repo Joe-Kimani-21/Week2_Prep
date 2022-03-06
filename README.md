@@ -1,6 +1,6 @@
 # Portfolio
 
-![Project Image](./images/portfolio.jpg)
+![Project Image](../images/portfolio.jpg)
 
 ### By: Joseph Kimani
 
@@ -13,8 +13,12 @@
 -   [Authors Info](#author-info)
 ## Description
 
+A site that assists in the basic identification of an individuals Akan nameform
+
 
 ## Usage
+
+System used to identify ones Akan name based on information gathered from the form
 
 ### Requirements
 -   Either a computer,phone,tablet or an Ipad
@@ -47,7 +51,8 @@ Happy coding!
 -   Java script
 
 ## Design
-The project was designed using Figma and is given as; [Design]()
+
+The project was designed using Figma and is given as; [Design](https://www.figma.com/file/1YWBDd1v0Crt4Ac0wrBWbF/Akan?node-id=0%3A1)
 
 
 ## Authors Info
