@@ -52,7 +52,7 @@ Happy coding!
 
 ## Design
 
-The project was designed using Figma and is given as; [Design](https://www.figma.com/file/1YWBDd1v0Crt4Ac0wrBWbF/Akan?node-id=0%3A1)
+The project was designed using Figma and is given as; [Design](https://www.figma.com/file/1YWBDd1v0Crt4Ac0wrBWbF/Akan?node-id=0%3A)
 
 
 ## Authors Info
