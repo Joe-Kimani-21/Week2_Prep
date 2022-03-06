@@ -38,7 +38,7 @@ main .image {
   background-image: linear-gradient(
           to bottom,
           rgba(255, 255, 255, .7) 10%,
-          rgba(255, 255, 255,.3) 100%
+          rgba(255, 255, 255,.4) 100%
       ),
       url("../images/coast.jpg");
   background-repeat: no-repeat;
