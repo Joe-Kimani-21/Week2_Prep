@@ -67,11 +67,6 @@ main .infobox {
   width: 60vw;
   height: auto;
   padding: 5% 10%;
-  background: linear-gradient(
-      to right,
-      rgba(255, 255, 255, 0) 45%,
-      rgba(255, 255, 255, 0) 100%
-  );
   backdrop-filter: blur(0.1vw);
   border-radius: 30px;
   border: 5px;
