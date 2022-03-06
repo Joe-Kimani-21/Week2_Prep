@@ -13,12 +13,12 @@
 -   [Authors Info](#author-info)
 ## Description
 
-A site that assists in the basic identification of an individuals Akan nameform
+A site that assists in the basic identification of an individuals Akan name
 
 
 ## Usage
 
-System used to identify ones Akan name based on information gathered from the form
+System used to identify ones Akan name based on information gathered from the online form
 
 ### Requirements
 -   Either a computer,phone,tablet or an Ipad
