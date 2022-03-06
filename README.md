@@ -1,6 +1,6 @@
 # Portfolio
 
-![Project Image](./images/portfolio.jpg)
+![Project Image](./images/akan.jpg)
 
 ### By: Joseph Kimani
 
