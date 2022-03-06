@@ -66,10 +66,10 @@ form.addEventListener("submit", (e) => {
     e.preventDefault();
     let gender = form.gender.value;
     if (date.value === "") {
-        alert("Please provide a valid date");
+        alert("Input a valid date");
         return;
     } else if (gender === "") {
-        alert("Please fill in your gender");
+        alert("Missing field, gender");
         return;
     }
     let day = getWeekDay(date.value);
